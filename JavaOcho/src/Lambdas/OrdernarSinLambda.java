@@ -30,8 +30,8 @@ public class OrdernarSinLambda {
         Collections.sort(clientes, new Comparator<Persona>() {
             @Override
             public int compare(Persona t, Persona t1) {
-                throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-                
+                //throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+                p1.nombre.compareTo(p2.nombre);
             }
         }
         */
