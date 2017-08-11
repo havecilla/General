@@ -1,0 +1,2 @@
+Producto: Lavadora
+Precio: 10000
